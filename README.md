@@ -25,3 +25,8 @@ Add the following line(please add your own details):
 ```
 ATLAS_URI=mongodb+srv://<username>:<password>@<cluster-url>/<database>?retryWrites=true&w=majority
 ```
+Run Server
+
+```
+npx ts-node src/server.ts
+```
